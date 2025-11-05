@@ -6,7 +6,16 @@ This project is a **binary image classifier** built using a **Convolutional Neur
 
 ## 📂 Dataset Structure
 
-`dataset/  ├── training_set/  │   ├── cats/  (~4000 images)  │   ├── dogs/  (~4000 images)  ├── test_set/      ├── cats/  (~1000 images)      ├── dogs/  (~1000 images)`
+``
+dataset/
+ ├── training_set/
+ │   ├── cats/  (~4000 images)
+ │   ├── dogs/  (~4000 images)
+ ├── test_set/
+     ├── cats/  (~1000 images)
+     ├── dogs/  (~1000 images)
+
+``
 
 ---
 
@@ -50,10 +59,6 @@ This project is a **binary image classifier** built using a **Convolutional Neur
         
     - Trained for **50+ epochs** with **EarlyStopping**
         
-- **Architecture Diagram:**
-    
-
-`Input(128x128x3)       │ Conv2D(32) → MaxPooling2D       │ Conv2D(64) → MaxPooling2D       │ Conv2D(128) → MaxPooling2D       │ Flatten       │ Dense(128, ReLU) → Dropout(0.5)       │ Dense(1, Sigmoid) → Output`
 
 - **Results:**
     
