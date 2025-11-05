@@ -89,16 +89,6 @@ dataset/
 
 `predict_image('path_to_image.jpg')`
 
----
-
-## 🖼️ Example Prediction
-
-|Image|Prediction|Confidence|
-|---|---|---|
-|cat1.jpg|Cat|0.87|
-|dog1.jpg|Dog|0.92|
-
----
 
 ## ✨ Key Concepts Learned
 
