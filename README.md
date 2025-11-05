@@ -6,14 +6,15 @@ This project is a **binary image classifier** built using a **Convolutional Neur
 
 ## 📂 Dataset Structure
 
+```
 dataset/
- ├── training_set/
- │   ├── cats/  (~4000 images)
- │   ├── dogs/  (~4000 images)
- ├── test_set/
-     ├── cats/  (~1000 images)
-     ├── dogs/  (~1000 images)
-
+├── training_set/
+│   ├── cats/ (~4000 images)
+│   ├── dogs/ (~4000 images)
+├── test_set/
+│   ├── cats/ (~1000 images)
+│   ├── dogs/ (~1000 images)
+```
 
 
 ---
