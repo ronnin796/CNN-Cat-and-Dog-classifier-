@@ -2,20 +2,6 @@
 
 This project is a **binary image classifier** built using a **Convolutional Neural Network (CNN)** in a Jupyter Notebook. It classifies images of cats and dogs and demonstrates my learning journey from a simple CNN to a more robust model.
 
----
-
-## 📂 Dataset Structure
-
-```
-dataset/
-├── training_set/
-│   ├── cats/ (~4000 images)
-│   ├── dogs/ (~4000 images)
-├── test_set/
-│   ├── cats/ (~1000 images)
-│   ├── dogs/ (~1000 images)
-```
-
 
 ---
 
