@@ -104,14 +104,3 @@ dataset/
 - **Data Augmentation:** Makes the model robust to variations
     
 
----
-
-## 📈 Takeaways
-
-- First hands-on experience building a CNN from scratch.
-    
-- Learned how model architecture, input size, and data augmentation impact accuracy.
-    
-- Iterative improvement: from low-accuracy first model → enhanced high-accuracy model.
-    
-- A beginner-friendly project that is **perfect for a portfolio**.
