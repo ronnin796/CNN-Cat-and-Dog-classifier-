@@ -10,7 +10,7 @@ st.title("🐱🐶 Cat vs Dog Classifier")
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
 
 if uploaded_file is not None:
-    original_img = Image.open(uploaded_file)
+    original_img = image.open(uploaded_file)
     st.image(original_img, caption="Uploaded Image", use_container_width=True)
     img = image.load_img(uploaded_file, target_size=(128, 128))
     
