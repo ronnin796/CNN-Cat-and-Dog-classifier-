@@ -2,7 +2,7 @@
 
 This project is a **binary image classifier** built using a **Convolutional Neural Network (CNN)** in a Jupyter Notebook. It classifies images of cats and dogs and demonstrates my learning journey from a simple CNN to a more robust model.
 
-
+🚀 **[Live Demo](https://catdogclassifier23.streamlit.app/)**  
 ---
 
 ## 🎯 Project Overview
