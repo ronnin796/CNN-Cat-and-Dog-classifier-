@@ -18,7 +18,7 @@ This project is a **binary image classifier** built using a **Convolutional Neur
 
 ---
 
-## 🔹 Learning Journey & Improvements
+
 
 ### 1️⃣ First Attempt – Simple CNN
 
